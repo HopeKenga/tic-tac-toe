@@ -1,0 +1,28 @@
+html {
+    background-image: url(../images/\ .png);
+    padding: 20px;
+    margin: 30px;
+}
+
+body {
+    color: #008080;
+}
+
+.playground {
+    color: #008080;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    width: 100vw;
+    flex-wrap: wrap;
+}
+
+.heading {
+    width: 100vw;
+    font-weight: 400;
+    background: #008080;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
