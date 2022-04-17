@@ -1,0 +1,8 @@
+.Board {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+}
